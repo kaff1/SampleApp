@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">500pxdemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">No images found.</string>
+    <string name="genericError">Problem fetching images</string>
+    <string name="action_hide_titles">Hide Titles</string>
+
+</resources>
